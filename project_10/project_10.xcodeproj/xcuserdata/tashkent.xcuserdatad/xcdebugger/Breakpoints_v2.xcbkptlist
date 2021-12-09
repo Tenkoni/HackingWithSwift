@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "88A86CAC-8EA1-442D-9053-61B55488521E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E32D100E-6FC2-4B77-B2C0-F5B8EA04D2AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "project_10/PersonCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PersonCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E32D100E-6FC2-4B77-B2C0-F5B8EA04D2AB - bc6b2de7dc8c2e01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_10.PersonCell.name.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "project_10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/project_10/project_10/PersonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "E32D100E-6FC2-4B77-B2C0-F5B8EA04D2AB - 50ac4af2496d215"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_10.PersonCell.name.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "project_10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/project_10/project_10/PersonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "E32D100E-6FC2-4B77-B2C0-F5B8EA04D2AB - ac6235ddf0f2ab7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_10.PersonCell.name.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "project_10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/project_10/project_10/PersonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "E32D100E-6FC2-4B77-B2C0-F5B8EA04D2AB - 97a58dee1bde76ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_10.PersonCell.name.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "project_10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/project_10/project_10/PersonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "E32D100E-6FC2-4B77-B2C0-F5B8EA04D2AB - e27755804943ef4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_10.PersonCell.init(frame: __C.CGRect) -&gt; project_10.PersonCell"
+                  moduleName = "project_10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/project_10/project_10/PersonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "165">
+               </Location>
+               <Location
+                  uuid = "E32D100E-6FC2-4B77-B2C0-F5B8EA04D2AB - c0ed9eac8c219dc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_10.PersonCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;project_10.PersonCell&gt;"
+                  moduleName = "project_10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/project_10/project_10/PersonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "143">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

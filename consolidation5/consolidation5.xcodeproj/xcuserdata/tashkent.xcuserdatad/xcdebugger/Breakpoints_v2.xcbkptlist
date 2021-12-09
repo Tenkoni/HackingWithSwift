@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "30FA663D-75F2-40DB-A7E4-B229A4AC9982"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23E04F1A-CF68-4EB4-8566-02346B352A11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "consolidation5/CardCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CardCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "23E04F1A-CF68-4EB4-8566-02346B352A11 - 2efcd8089e13cdec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "consolidation5.CardCell.labelName.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "consolidation5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/consolidation5/consolidation5/CardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "23E04F1A-CF68-4EB4-8566-02346B352A11 - 9d683dfbbcdd2ae0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "consolidation5.CardCell.labelName.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "consolidation5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/consolidation5/consolidation5/CardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "23E04F1A-CF68-4EB4-8566-02346B352A11 - a84ec8e8f97869b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "consolidation5.CardCell.labelName.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "consolidation5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/consolidation5/consolidation5/CardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "23E04F1A-CF68-4EB4-8566-02346B352A11 - 5339f232bd40a370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "consolidation5.CardCell.labelName.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "consolidation5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/consolidation5/consolidation5/CardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "23E04F1A-CF68-4EB4-8566-02346B352A11 - 884a5292b2409f51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "consolidation5.CardCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; consolidation5.CardCell"
+                  moduleName = "consolidation5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/consolidation5/consolidation5/CardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  uuid = "23E04F1A-CF68-4EB4-8566-02346B352A11 - 5abba14230d38a71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "consolidation5.CardCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;consolidation5.CardCell&gt;"
+                  moduleName = "consolidation5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tashkent/Desktop/SwiftProjects/consolidation5/consolidation5/CardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
